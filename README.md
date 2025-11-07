@@ -86,26 +86,27 @@ The system is structured into three main layers:
 
 ## 7. PROJECT STRUCTURE
 
-----------------------------------------------------------
+```text
 StatKick/
 │
-├── frontend/ → React.js web app
-│ ├── src/
-│ │ ├── components/ → UI Components
-│ │ ├── pages/ → App Pages (Home, Teams, etc.)
-│ │ ├── assets/ → Images, icons, videos
-│ │ └── App.jsx
-│ └── tailwind.config.js
+├── frontend/               → React.js web app
+│   ├── src/
+│   │   ├── components/     → UI Components
+│   │   ├── pages/          → App Pages (Home, Teams, etc.)
+│   │   ├── assets/         → Images, icons, videos
+│   │   └── App.jsx
+│   └── tailwind.config.js
 │
-├── backend/ → Node.js server
-│ ├── routes/ → API endpoints
-│ ├── data/ → JSON data (teams, players, etc.)
-│ └── server.js
+├── backend/                → Node.js server
+│   ├── routes/             → API endpoints
+│   ├── data/               → JSON data (teams, players, etc.)
+│   └── server.js
 │
-├── vision/ → Python module for video analysis
-│ └── detect_players.py
+├── vision/                 → Python module for video analysis
+│   └── detect_players.py
 │
-└── README.md → Project documentation
+└── README.md               → Project documentation
+
 
 
 
