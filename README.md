@@ -86,26 +86,27 @@ The system is structured into three main layers:
 
 ## 7. PROJECT STRUCTURE
 
-```text
-StatKick/
-│
-├── frontend/               → React.js web app
-│   ├── src/
-│   │   ├── components/     → UI Components
-│   │   ├── pages/          → App Pages (Home, Teams, etc.)
-│   │   ├── assets/         → Images, icons, videos
-│   │   └── App.jsx
-│   └── tailwind.config.js
-│
-├── backend/                → Node.js server
-│   ├── routes/             → API endpoints
-│   ├── data/               → JSON data (teams, players, etc.)
-│   └── server.js
-│
-├── vision/                 → Python module for video analysis
-│   └── detect_players.py
-│
-└── README.md               → Project documentation
+    StatKick/
+    │
+    ├── frontend/               → React.js web app
+    │   ├── src/
+    │   │   ├── components/     → UI Components
+    │   │   ├── pages/          → App Pages (Home, Teams, etc.)
+    │   │   ├── assets/         → Images, icons, videos
+    │   │   └── App.jsx
+    │   └── tailwind.config.js
+    │
+    ├── backend/                → Node.js server
+    │   ├── routes/             → API endpoints
+    │   ├── data/               → JSON data (teams, players, etc.)
+    │   └── server.js
+    │
+    ├── vision/                 → Python module for video analysis
+    │   └── detect_players.py
+    │
+    └── README.md               → Project documentation
+
+---
 
 ## 8. HOW IT WORKS
 1. The user opens the platform in a browser.  
