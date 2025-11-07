@@ -1,0 +1,98 @@
+{
+  "1": {
+    "mostTitledTeam": "Real Madrid (14 titles)",
+    "topScorers": [
+      { "name": "Cristiano Ronaldo", "goals": 140 },
+      { "name": "Lionel Messi", "goals": 129 },
+      { "name": "Robert Lewandowski", "goals": 91 },
+      { "name": "Karim Benzema", "goals": 90 },
+      { "name": "Raúl", "goals": 71 },
+      { "name": "Ruud van Nistelrooy", "goals": 60 },
+      { "name": "Thierry Henry", "goals": 50 },
+      { "name": "Andriy Shevchenko", "goals": 48 },
+      { "name": "Filippo Inzaghi", "goals": 46 },
+      { "name": "Zlatan Ibrahimović", "goals": 48 }
+    ],
+    "topAssisters": [
+      { "name": "Cristiano Ronaldo", "assists": 40 },
+      { "name": "Lionel Messi", "assists": 35 },
+      { "name": "Ángel Di María", "assists": 34 },
+      { "name": "Neymar", "assists": 30 },
+      { "name": "Kevin De Bruyne", "assists": 29 },
+      { "name": "Thomas Müller", "assists": 28 },
+      { "name": "Kylian Mbappé", "assists": 27 },
+      { "name": "Mesut Özil", "assists": 26 },
+      { "name": "Luis Suárez", "assists": 24 },
+      { "name": "Franck Ribéry", "assists": 23 }
+    ],
+    "history": [
+      { "season": "2022/23", "winner": "Manchester City", "runnerUp": "Inter Milan" },
+      { "season": "2021/22", "winner": "Real Madrid", "runnerUp": "Liverpool" },
+      { "season": "2020/21", "winner": "Chelsea", "runnerUp": "Manchester City" }
+    ]
+  },
+  "2": {
+    "mostTitledTeam": "Brazil (5 titles)",
+    "topScorers": [
+      { "name": "Miroslav Klose", "goals": 16 },
+      { "name": "Ronaldo Nazário", "goals": 15 },
+      { "name": "Gerd Müller", "goals": 14 },
+      { "name": "Just Fontaine", "goals": 13 },
+      { "name": "Pelé", "goals": 12 },
+      { "name": "Sandor Kocsis", "goals": 11 },
+      { "name": "Jürgen Klinsmann", "goals": 11 },
+      { "name": "Helmut Rahn", "goals": 10 },
+      { "name": "Gary Lineker", "goals": 10 },
+      { "name": "Gabriel Batistuta", "goals": 10 }
+    ],
+    "topAssisters": [
+      { "name": "Pelé", "assists": 10 },
+      { "name": "Lionel Messi", "assists": 8 },
+      { "name": "Diego Maradona", "assists": 8 },
+      { "name": "Kevin De Bruyne", "assists": 7 },
+      { "name": "Andres Iniesta", "assists": 6 },
+      { "name": "Thomas Müller", "assists": 6 },
+      { "name": "Neymar", "assists": 6 },
+      { "name": "Xavi", "assists": 5 },
+      { "name": "Mesut Özil", "assists": 5 },
+      { "name": "James Rodríguez", "assists": 5 }
+    ],
+    "history": [
+      { "season": "2022", "winner": "Argentina", "runnerUp": "France" },
+      { "season": "2018", "winner": "France", "runnerUp": "Croatia" },
+      { "season": "2014", "winner": "Germany", "runnerUp": "Argentina" }
+    ]
+  },
+  "3": {
+    "mostTitledTeam": "Manchester United (20 titles)",
+    "topScorers": [
+      { "name": "Alan Shearer", "goals": 260 },
+      { "name": "Wayne Rooney", "goals": 208 },
+      { "name": "Harry Kane", "goals": 213 },
+      { "name": "Andy Cole", "goals": 187 },
+      { "name": "Sergio Agüero", "goals": 184 },
+      { "name": "Frank Lampard", "goals": 177 },
+      { "name": "Thierry Henry", "goals": 175 },
+      { "name": "Robbie Fowler", "goals": 163 },
+      { "name": "Jermain Defoe", "goals": 162 },
+      { "name": "Michael Owen", "goals": 150 }
+    ],
+    "topAssisters": [
+      { "name": "Ryan Giggs", "assists": 162 },
+      { "name": "Cesc Fàbregas", "assists": 111 },
+      { "name": "Wayne Rooney", "assists": 103 },
+      { "name": "Frank Lampard", "assists": 102 },
+      { "name": "Kevin De Bruyne", "assists": 100 },
+      { "name": "Dennis Bergkamp", "assists": 94 },
+      { "name": "David Beckham", "assists": 80 },
+      { "name": "James Milner", "assists": 86 },
+      { "name": "Steven Gerrard", "assists": 92 },
+      { "name": "Andrew Cole", "assists": 73 }
+    ],
+    "history": [
+      { "season": "2022/23", "winner": "Manchester City", "runnerUp": "Arsenal" },
+      { "season": "2021/22", "winner": "Manchester City", "runnerUp": "Liverpool" },
+      { "season": "2020/21", "winner": "Manchester City", "runnerUp": "Manchester United" }
+    ]
+  }
+}

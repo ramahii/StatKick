@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "UEFA Champions League",
+    "founded": 1955,
+    "country": "Europe",
+    "type": "Club",
+    "currentSeason": "2024/25",
+    "logoUrl": "/assets/competitions/uefa-champions-league.png"
+  },
+  {
+    "id": 2,
+    "name": "FIFA World Cup",
+    "founded": 1930,
+    "country": "International",
+    "type": "National Teams",
+    "currentSeason": "2026",
+    "logoUrl": "/assets/competitions/fifa-world-cup.png"
+  },
+  {
+    "id": 3,
+    "name": "UEFA Euro Championship",
+    "founded": 1960,
+    "country": "Europe",
+    "type": "National Teams",
+    "currentSeason": "2024",
+    "logoUrl": "/assets/competitions/uefa-euro.png"
+  },
+  {
+    "id": 4,
+    "name": "Copa America",
+    "founded": 1916,
+    "country": "South America",
+    "type": "National Teams",
+    "currentSeason": "2024",
+    "logoUrl": "/assets/competitions/copa-america.png"
+  },
+  {
+    "id": 5,
+    "name": "Premier League",
+    "founded": 1992,
+    "country": "England",
+    "type": "Club",
+    "currentSeason": "2024/25",
+    "logoUrl": "/assets/competitions/premier-league.png"
+  },
+  {
+    "id": 6,
+    "name": "La Liga",
+    "founded": 1929,
+    "country": "Spain",
+    "type": "Club",
+    "currentSeason": "2024/25",
+    "logoUrl": "/assets/competitions/la-liga.png"
+  },
+  {
+    "id": 7,
+    "name": "Serie A",
+    "founded": 1898,
+    "country": "Italy",
+    "type": "Club",
+    "currentSeason": "2024/25",
+    "logoUrl": "/assets/competitions/serie-a.png"
+  },
+  {
+    "id": 8,
+    "name": "Bundesliga",
+    "founded": 1963,
+    "country": "Germany",
+    "type": "Club",
+    "currentSeason": "2024/25",
+    "logoUrl": "/assets/competitions/bundesliga.png"
+  },
+  {
+    "id": 9,
+    "name": "Ligue 1",
+    "founded": 1932,
+    "country": "France",
+    "type": "Club",
+    "currentSeason": "2024/25",
+    "logoUrl": "/assets/competitions/ligue-1.png"
+  },
+  {
+    "id": 10,
+    "name": "FA Cup",
+    "founded": 1871,
+    "country": "England",
+    "type": "Club",
+    "currentSeason": "2024/25",
+    "logoUrl": "/assets/competitions/fa-cup.png"
+  },
+  {
+    "id": 11,
+    "name": "Copa del Rey",
+    "founded": 1903,
+    "country": "Spain",
+    "type": "Club",
+    "currentSeason": "2024/25",
+    "logoUrl": "/assets/competitions/copa-del-rey.png"
+  },
+  {
+    "id": 12,
+    "name": "Coppa Italia",
+    "founded": 1922,
+    "country": "Italy",
+    "type": "Club",
+    "currentSeason": "2024/25",
+    "logoUrl": "/assets/competitions/coppa-italia.png"
+  }
+]
