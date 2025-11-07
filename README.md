@@ -107,66 +107,60 @@ StatKick/
 │
 └── README.md               → Project documentation
 
-
-
-
-
----
-
 ## 8. HOW IT WORKS
-1. The user opens the platform in a browser  
-2. The frontend requests football data from the Node.js backend  
-3. The backend serves data and external API results (news/highlights)  
-4. When a video is uploaded, it’s sent to the Python layer  
-5. The vision module detects players, assigns teams, and returns an annotated video  
-6. Results appear interactively on the web interface  
+1. The user opens the platform in a browser.  
+2. The frontend requests football data from the Node.js backend.  
+3. The backend serves data and external API results (news and highlights).  
+4. When a video is uploaded, it’s sent to the Python layer.  
+5. The vision module detects players, assigns teams, and returns an annotated video.  
+6. The annotated video and analysis results are displayed interactively on the web interface.  
 
 ---
 
 ## 9. DESIGN & USER EXPERIENCE
-- **Theme:** Glassmorphism with subtle shadows and blur effects  
-- **Colors:** Clean white/dark contrasts with transparency  
-- **Responsive:** Optimized for mobile + desktop  
-- **Animations:** Smooth Tailwind transitions  
+- **Theme:** Glassmorphism with subtle shadows and blur effects.  
+- **Colors:** Clean white/dark contrasts with transparent layers.  
+- **Responsive Layout:** Optimized for mobile and desktop screens.  
+- **Animations:** Smooth transitions and hover effects using Tailwind CSS.  
 
 ---
 
 ## 10. RESULTS & DEMO
-The demo version includes:
-- Interactive homepage with football-themed visuals  
-- Organized grids for competitions and teams  
-- Real-time news & highlights  
-- Functional video-analysis interface with annotated output  
+The demo version of **StatKick** includes:  
+- An interactive homepage with football-themed visuals.  
+- Organized grids for competitions and teams.  
+- Real-time news and match highlights via integrated APIs.  
+- A functional video analysis interface for uploading and viewing annotated clips.  
 
-The computer-vision module identifies and tracks players and referees
-in real-time frames, marking each with distinct colors and IDs.
+The **computer vision module** demonstrates object detection for players, referees, and the ball, marking each entity with color-coded bounding boxes and labels.  
+This provides an engaging and data-driven way to visualize football match dynamics.  
 
 ---
 
 ## 11. FUTURE IMPROVEMENTS
-- Connect to a real database (MongoDB / PostgreSQL)  
-- Deploy full app online (Vercel / Render / Railway)  
-- Add authentication & user profiles  
-- Include match-statistics visualizations  
-- Improve video analysis with advanced AI models  
-- Enable multi-user upload & sharing  
+- Connect to a full database (e.g., MongoDB or PostgreSQL).  
+- Deploy the entire app online (Vercel, Render, or Railway).  
+- Add user authentication and personal dashboards.  
+- Include match statistics and advanced visualizations.  
+- Enhance video analysis with improved AI and tracking algorithms.  
+- Enable multi-user uploads, sharing, and community interaction.  
 
 ---
 
 ## 12. PERSONAL LEARNING OUTCOME
-- Stronger frontend & backend development skills  
-- Experience integrating REST APIs  
-- Improved data-management & modular design  
-- Better project planning and organization  
-- Insight into applying AI in sports analytics  
+Through building **StatKick**, I gained:  
+- Advanced skills in frontend and backend web development.  
+- Practical experience integrating RESTful APIs.  
+- A better understanding of modular project architecture.  
+- Improved time management and project planning.  
+- Deeper insight into applying **AI and computer vision** to sports analytics.  
 
 ---
 
 ## 13. SUMMARY
-StatKick unites engineering, data integration, and artificial
-intelligence to deliver a smart platform for football fans and developers.
-It highlights the synergy of modern web development and AI-driven
-video analysis — demonstrating creativity, technical competence,
-and real-world applicability.
+**StatKick** merges software engineering, data integration, and artificial intelligence to deliver a smart and modern platform for football analysis.  
+It demonstrates the potential of combining web technologies with AI-powered computer vision to create immersive, data-rich user experiences.  
+
+This project reflects technical capability, creativity, and a deep understanding of real-world application design — bridging the gap between **technology and sports intelligence**.  
 
 ---
